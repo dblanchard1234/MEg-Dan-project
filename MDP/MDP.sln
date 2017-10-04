@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDP", "MDP\MDP.csproj", "{E48105ED-BF27-40F4-B8FB-458FA59C3203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E48105ED-BF27-40F4-B8FB-458FA59C3203}.Debug|x86.ActiveCfg = Debug|x86
+		{E48105ED-BF27-40F4-B8FB-458FA59C3203}.Debug|x86.Build.0 = Debug|x86
+		{E48105ED-BF27-40F4-B8FB-458FA59C3203}.Release|x86.ActiveCfg = Release|x86
+		{E48105ED-BF27-40F4-B8FB-458FA59C3203}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57E3604F-300A-4D3E-9E43-DA9A996FC0C2}
+	EndGlobalSection
+EndGlobal
